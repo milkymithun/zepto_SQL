@@ -107,4 +107,13 @@ CREATE TABLE zepto (
 
 - Measured total inventory weight per product category
 
+- Find all products whose discountPercent is greater than the average discountPercent across
+  the entire table.
+
+- List the top 3 categories with the highest total availableQuantity.
+
+- List products whose discountedSellingPrice is less than 70% of their MRP.
+
+- Find all categories where more than 5 products are out of stock.
+
 
